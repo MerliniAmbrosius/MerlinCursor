@@ -3,7 +3,7 @@
 
 A lovely little cat named Merlin, whose hobby is diligently studying.
 
-![merlin](merlin.png)
+![merlincursor](merlin.png)
 
 安装前请先将鼠标指针大小调整为3。
 
