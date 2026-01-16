@@ -9,4 +9,4 @@ A lovely little cat named Merlin, whose hobby is diligently studying.
 
 Please adjust the mouse pointer size to 3 before installing.
 
-![merlincursor](Installation Guide.png)
+![merlincursor](InstallationGuide.png)
